@@ -1,7 +1,7 @@
 # Repository Title
 AI-Lab-Deep-Learning-for-Computer-Vision-WorldQuant-University
 
-This repository contains [brief description of the file or project].
+This repository contains all project lessons taught by WorldQuant University.
 
 ## File Information
 
